@@ -32,6 +32,3 @@ Welcome to my 3D portfolio website! This website showcases my work in 3D modelin
 2. Navigate through the portfolio sections.
 3. Interact with 3D models using mouse or touch controls.
 
-
-## License
-[Insert license information]
