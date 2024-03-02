@@ -11,7 +11,7 @@ Welcome to my 3D portfolio website! This website showcases my work in 3D modelin
 - [License](#license)
 
 ## Demo
-[live demo or screenshots here]
+https://nirmalpal-portfolio.vercel.app]
 
 ## Technologies Used
 - HTML5
